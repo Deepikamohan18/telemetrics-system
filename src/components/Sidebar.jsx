@@ -1,5 +1,5 @@
 import useTelemetry from "../context/useTelemetry";
-import "./sidebar.css";
+import "./Sidebar.css";
 
 const NAV = [
   { id: "dashboard", label: "Overview", icon: "◈" },
